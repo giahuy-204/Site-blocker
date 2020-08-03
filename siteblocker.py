@@ -4,6 +4,8 @@ Created on Mon Aug  1 10:55:12 2020
 pj: Siteblocker
 @author: Hyu1
 """
+#In order to run, you need to run your code-running program to administrator.
+
 #Import time.
 import time
 #Rename datetime as dt.
